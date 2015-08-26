@@ -1,6 +1,6 @@
 {
   "name": "angular-shim",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a shim for angular",
   "keywords": ["angular-shim", "shim", "dom", "angular"],
   "author": "Websecurify <contact@websecurify.com> (http://www.websecurify.com)",
