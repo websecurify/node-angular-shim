@@ -2,7 +2,12 @@
   "name": "angular-shim",
   "version": "1.0.1",
   "description": "a shim for angular",
-  "keywords": ["angular-shim", "shim", "dom", "angular"],
+  "keywords": [
+    "angular-shim",
+    "shim",
+    "dom",
+    "angular"
+  ],
   "author": "Websecurify <contact@websecurify.com> (http://www.websecurify.com)",
   "homepage": "https://github.com/websecurify/node-angular-shim",
   "repository": {
@@ -14,8 +19,10 @@
     "url": "http://github.com/websecurify/node-angular-shim/issues/"
   },
   "main": "./index.js",
-    "licenses": [{
-      "type" : "MIT",
-      "url" : "https://github.com/websecurify/node-angular-shim/LICENSE.md"
-    }]
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/websecurify/node-angular-shim/LICENSE.md"
+    }
+  ]
 }
