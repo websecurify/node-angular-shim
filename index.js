@@ -1,9 +1,5 @@
 'use strict'
 
-// ---
-// ---
-// ---
-
 try {
 	module.exports = window.angular || require('angular') || {}
 	
@@ -21,5 +17,3 @@ try {
 		module.exports = {}
 	}
 }
-
-// ---
